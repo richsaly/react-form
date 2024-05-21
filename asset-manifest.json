@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/richsaly/react-form/static/css/main.f3610d50.css",
+    "main.js": "/richsaly/react-form/static/js/main.60f5078a.js",
+    "static/js/453.275a7f35.chunk.js": "/richsaly/react-form/static/js/453.275a7f35.chunk.js",
+    "index.html": "/richsaly/react-form/index.html",
+    "main.f3610d50.css.map": "/richsaly/react-form/static/css/main.f3610d50.css.map",
+    "main.60f5078a.js.map": "/richsaly/react-form/static/js/main.60f5078a.js.map",
+    "453.275a7f35.chunk.js.map": "/richsaly/react-form/static/js/453.275a7f35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3610d50.css",
+    "static/js/main.60f5078a.js"
+  ]
+}
